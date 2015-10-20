@@ -1,0 +1,29 @@
+{
+  "name": "node-singlepageapp-form",
+  "title": "Node Single-page application Form",
+  "description": "Try out generating a form as a single-page application",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Hiklas/node-singlepageapp-form",
+  "author": {
+    "name": "Fiona Bianchi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hiklas/node-singlepageapp-form.git"
+  },
+  "license": [
+    {
+      "type": "Apache",
+      "url": "https://github.com/Hiklas/node-singlepageapp-form/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.3",
+    "grunt": "~0.4.5",
+    "grunt-mocha-test": "~0.12.7",
+    "supertest": "~1.1.0"
+  }
+}
